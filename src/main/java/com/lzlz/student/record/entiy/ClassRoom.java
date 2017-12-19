@@ -7,7 +7,6 @@ public class ClassRoom {
 
 	public ClassRoom() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public ClassRoom(int crno, String craddress, String sstate) {
