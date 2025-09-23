@@ -8,7 +8,7 @@
 	<name>student_record Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
-	<!-- 配置使用仓库 -->
+	<!-- 配置使用仓库1 -->
 	<repositories>
 		<repository>
 			<id>cms</id>
